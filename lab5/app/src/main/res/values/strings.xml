@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">labo5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Survey App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About App</string>
+
+
+
+    <string name="appDescription">This survey app will help you to get
+        user experience. Surveys are used to increase knowledge in research.
+        It also includes a rating average. </string>
+    <string name="survey_app">SURVEY APP</string>
+    <string name="write_a_new_question">Write a new question</string>
+    <string name="answer_the_next_question">Answer the next question:</string>
+    <string name="next_question">Next Question</string>
+    <string name="start_survey">Start Survey</string>
+    <string name="results">Results</string>
+    <string name="new_survey">New Survey</string>
+    <string name="see_results">See Results</string>
+</resources>
